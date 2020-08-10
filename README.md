@@ -27,7 +27,7 @@ www.lorenzocoacci.com
 <img align="left" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
-
+<img align="left" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
@@ -46,6 +46,8 @@ www.lorenzocoacci.com
 <img align="left" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" />
 
 
+
+<br />
 <br />
 <br />
 <br />
