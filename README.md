@@ -28,6 +28,23 @@ www.lorenzocoacci.com
 <img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
 
+<img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/ni_labview/ni_labview-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/monday/monday-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" />
+
 
 <br />
 <br />
