@@ -11,8 +11,8 @@
 
 ## **Connect with me :**
 
-
-<a href="https://www.lorenzocoacci.com" target="_blank"><img align="center" src="https://www.lorenzocoacci.com/static/img/logos/icon/white_transparent.png" height="30" width="30" /></a> &nbsp;&nbsp;
+www.lorenzocoacci.com
+<a href="https://www.linkedin.com/in/lorenzo-coacci-692152b2/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="https://www.datacamp.com/profile/lorenzo-a4c8d2b8-bafe-4c7e-9e99-90f6b10d4255" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="https://www.medium.com/lollococce/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="mailto:lorenzo@coacci.it" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" height="30" width="30" /></a> &nbsp;&nbsp;
