@@ -11,8 +11,7 @@
 
 ## **Connect with me :**
 
-
-<a href="www.lorenzocoacci.com" target="_blank">www.lorenzocoacci.com</a>
+www.lorenzocoacci.com
 <br />
 <br />
 <a href="https://www.linkedin.com/in/lorenzo-coacci-692152b2/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a> &nbsp;&nbsp;
