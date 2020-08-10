@@ -1,6 +1,6 @@
 # Hey 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lollococce?tab=followers)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## I'm Lorenzo Coacci, here **lollococce**, a Data Scientist. I believe in freedom, science, data and beauty.
  
