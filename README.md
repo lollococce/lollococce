@@ -1,6 +1,6 @@
 # Hey 👋
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 
 ## I'm Lorenzo Coacci, here **lollococce**, a Data Scientist. I believe in freedom, science, data and beauty.
  
