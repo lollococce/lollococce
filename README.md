@@ -2,7 +2,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-## I'm Lorenzo Coacci (here **lollococce**), a Data Scientist. I believe in freedom, science, data and beauty.
+## I'm Lorenzo Coacci (here **lollococce**), a Data Scientist.
+I believe in freedom, science, data and beauty.
  
 * Data Scientist / Engineer 💻
 * Writer 🖋
