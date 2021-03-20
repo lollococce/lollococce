@@ -21,7 +21,7 @@ www.lorenzocoacci.com
 
 ## **Stats :**
 
-[![lollococce's github stats](https://github-readme-stats.vercel.app/api?username=lollococce&show_icons=true&theme=vue)](https://github.com/lollococce/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=lollococce&theme=blue-green)
 
 [![lollococce's github stats](https://github-readme-stats.vercel.app/api?username=lollococce&theme=blue-green)](https://github.com/lollococce/github-readme-stats)
 
