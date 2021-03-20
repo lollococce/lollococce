@@ -21,7 +21,7 @@ www.lorenzocoacci.com
 <a href="mailto:lorenzo@coacci.it" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" height="30" width="30" /></a> &nbsp;&nbsp;
 
 
-## **Languages, Tools and Frameworks :**
+## **Languages, Tools, Platforms and Frameworks :**
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
