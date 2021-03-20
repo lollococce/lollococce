@@ -64,4 +64,7 @@ www.lorenzocoacci.com
 <br />
 <br />
 
+
+## **Stats :**
+
 [![lollococce's github stats](https://github-readme-stats.vercel.app/api?username=lollococce&show_icons=true&theme=vue)](https://github.com/lollococce/github-readme-stats)
