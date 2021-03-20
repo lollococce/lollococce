@@ -20,6 +20,10 @@ www.lorenzocoacci.com
 <a href="https://www.medium.com/lollococce/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="mailto:lorenzo@coacci.it" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" height="30" width="30" /></a> &nbsp;&nbsp;
 
+## **Stats :**
+
+[![lollococce's github stats](https://github-readme-stats.vercel.app/api?username=lollococce&show_icons=true&theme=vue)](https://github.com/lollococce/github-readme-stats)
+
 
 ## **Languages, Tools, Platforms and Frameworks :**
 <section>
@@ -65,6 +69,3 @@ www.lorenzocoacci.com
 <br />
 
 
-## **Stats :**
-
-[![lollococce's github stats](https://github-readme-stats.vercel.app/api?username=lollococce&show_icons=true&theme=vue)](https://github.com/lollococce/github-readme-stats)
