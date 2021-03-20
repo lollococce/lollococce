@@ -23,6 +23,7 @@ www.lorenzocoacci.com
 
 [![lollococce's github stats](https://github-readme-stats.vercel.app/api?username=lollococce&show_icons=true&theme=vue)](https://github.com/lollococce/github-readme-stats)
 
+[![lollococce's github stats](https://github-readme-stats.vercel.app/api?username=lollococce&theme=blue-green)](https://github.com/lollococce/github-readme-stats)
 
 ## **Languages, Tools, Platforms and Frameworks :**
 <section>
