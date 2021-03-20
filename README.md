@@ -22,6 +22,7 @@ www.lorenzocoacci.com
 
 
 ## **Languages, Tools, Platforms and Frameworks :**
+<section>
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 <img align="left" width=60 src="https://raw.githubusercontent.com/amido/azure-vector-icons/44d6fb82666171e8a77bda35ab80303ecc880e1b/icons/SQL%20Database%20(Generic).svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
@@ -55,6 +56,7 @@ www.lorenzocoacci.com
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" />
 <img align="left" width=60 src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/airflow.svg" />
+<section/>
 
 <br />
 <br />
