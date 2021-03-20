@@ -2,7 +2,7 @@
 
 
 ## Hey 👋, I'm Lorenzo, a Data Scientist/Engineer
-I believe in freedom, science, data and beauty.
+I believe in freedom 🚀, science 🔬, data 📊 and beauty 🖼
  
 * Data Scientist / Engineer 💻
 * Writer 🖋
