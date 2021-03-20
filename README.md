@@ -46,7 +46,7 @@ www.lorenzocoacci.com
 <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" />
-<img align="left" src="https://airflow.apache.org/images/feature-image.png" />
+<img align="left" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/airflow.svg" />
 
 <br />
 <br />
