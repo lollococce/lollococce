@@ -65,6 +65,10 @@ LinkedIn: https://www.linkedin.com/in/lorenzocoacci/
 <img align="left" width=75 src="https://raw.githubusercontent.com/simple-icons/simple-icons/680903e70103b37f4f35977de0ef108ea01d32ab/icons/celery.svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg" />
+<img align="left" width=150 src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-ar21.svg" />
+<img align="left" width=150 src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg" />
+<img align="left" width=150 src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/amazon-s3.png" />
+<img align="left" width=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />
 <img align="left" width=60 src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/airflow.svg" />
 <section/>
 
