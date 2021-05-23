@@ -27,7 +27,7 @@ LinkedIn: https://www.linkedin.com/in/lorenzocoacci/
 
 [![lollococce's github stats](https://github-readme-stats.vercel.app/api?username=lollococce&theme=blue-green)](https://github.com/lollococce/github-readme-stats)
 
-## **Languages, Tools, Platforms and Frameworks :**
+## **Languages, Tools, Platforms, Libraries and Frameworks :**
 <section>
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 <img align="left" width=60 src="https://raw.githubusercontent.com/amido/azure-vector-icons/44d6fb82666171e8a77bda35ab80303ecc880e1b/icons/SQL%20Database%20(Generic).svg" />
