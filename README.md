@@ -62,7 +62,6 @@ LinkedIn: https://www.linkedin.com/in/lorenzocoacci/
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" />
 <img align="left" width=75 src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
-<img align="left" width=75 src="https://raw.githubusercontent.com/simple-icons/simple-icons/680903e70103b37f4f35977de0ef108ea01d32ab/icons/celery.svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-ar21.svg" />
@@ -71,6 +70,7 @@ LinkedIn: https://www.linkedin.com/in/lorenzocoacci/
 <img align="left" width=150 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" />
 <img align="left" width=150 src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
 <img align="left" width=60 src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/airflow.svg" />
+<img align="left" width=60 src="https://raw.githubusercontent.com/simple-icons/simple-icons/680903e70103b37f4f35977de0ef108ea01d32ab/icons/celery.svg" />
 <section/>
 
 <br />
