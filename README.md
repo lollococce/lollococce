@@ -14,8 +14,8 @@ I believe in freedom 🚀, science 🔬, data 📊, and beauty 🖼
 
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/lorenzo.coacci.35/)
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/lorenzocoacci/)
-<!-- [![](https://img.shields.io/badge/-BLOG-informational?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF)](https://ptkdev.io)
-[![](https://img.shields.io/badge/-Dev-informational?style=for-the-badge&logo=devto&logoColor=white&color=000000)](https://dev.to/ptkdev) -->
+<!-- [![](https://img.shields.io/badge/-BLOG-informational?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF)]()
+[![](https://img.shields.io/badge/-Dev-informational?style=for-the-badge&logo=devto&logoColor=white&color=000000)]() -->
 
 Portfolio: https://www.lorenzocoacci.com
 <br />
