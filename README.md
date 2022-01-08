@@ -64,7 +64,7 @@ Portfolio: https://www.lorenzocoacci.com
 **THANK YOU!**
 
 <!-- all-shields/sponsors-badges:START -->
-[![Donate Paypal](https://img.shields.io/badge/donate-paypal-005EA6.svg?style=for-the-badge&logo=paypal)](https://paypal.me/lollococce) [![Donate Github Sponsors](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?style=for-the-badge&logo=github)](https://github.com/sponsors/lollococce) [![Donate Bitcoin](https://img.shields.io/badge/BTC-bc1qdjlplkhw3ug3mkj92e3m7h3sj5akztsh7xh7k7-E38B29.svg?style=flat-square&logo=bitcoin)](https://ptk.dev/img/icons/menu/bitcoin_wallet.png) [![Donate Ethereum](https://img.shields.io/badge/ETH-0x7740E2eE4112CA343104Fe3E4879A81B2818BC0C-4E8EE9.svg?style=flat-square&logo=ethereum)](https://ptk.dev/img/icons/menu/ethereum_wallet.png)
+[![Donate Paypal](https://img.shields.io/badge/donate-paypal-005EA6.svg?style=for-the-badge&logo=paypal)](https://paypal.me/lollococce) [![Donate Github Sponsors](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?style=for-the-badge&logo=github)](https://github.com/sponsors/lollococce) [![Donate Bitcoin](https://img.shields.io/badge/BTC-bc1qdjlplkhw3ug3mkj92e3m7h3sj5akztsh7xh7k7-E38B29.svg?style=flat-square&logo=bitcoin)]() [![Donate Ethereum](https://img.shields.io/badge/ETH-0x7740E2eE4112CA343104Fe3E4879A81B2818BC0C-4E8EE9.svg?style=flat-square&logo=ethereum)]()
 <!-- all-shields/sponsors-badges:END -->
 
 
