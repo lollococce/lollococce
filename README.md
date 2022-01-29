@@ -20,7 +20,7 @@ I believe in freedom 🚀, science 🔬, data 📊, and beauty 🖼
 Portfolio: https://www.lorenzocoacci.com
 <br />
 <br />
-<a href="https://www.datacamp.com/profile/lorenzo-a4c8d2b8-bafe-4c7e-9e99-90f6b10d4255" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" height="30" width="30" /></a> &nbsp;&nbsp;
+<a href="https://www.datacamp.com/profile/lorenzocoacci" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="https://lorenzocoacci.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="mailto:lorenzo@coacci.it" target="_blank"><img style="color: white;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" height="30" width="30" /></a> &nbsp;&nbsp;
 
