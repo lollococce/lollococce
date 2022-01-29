@@ -121,6 +121,8 @@ Portfolio: https://www.lorenzocoacci.com
         <img align="left" width=60 src="https://raw.githubusercontent.com/simple-icons/simple-icons/680903e70103b37f4f35977de0ef108ea01d32ab/icons/celery.svg" />
         <img align="left" width=60 src="https://img.search.brave.com/gKH9IRd4ppa9iZ2qBoTI2DKTheCy7jhVb4mNIu96rbI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTkvMDYvTm90aW9u/X0FwcF9Mb2dvLnBu/Zw" />
         <img align="left" width=60 src="https://img.search.brave.com/mwJxe76o2z4rGbGcdurn70yxXF75pVOhRUZNQy-rjew/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9tbG11/dW91czZkd2UuaS5v/cHRpbW9sZS5jb20v/RGZ3V2NkUS1BenVv/TUM1WC93OjMwMC9o/OjMwMC9xOmF1dG8v/aHR0cHM6Ly90ZWNo/bmF0aW9uLmlvL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzAy/L2J1ZGliYXNlLWNv/bG91ci5wbmc" />
+        
+        <img align="left" width=60 src=" https://img.search.brave.com/e5t1lwZ76OWcqYw5pUmYe9ih_flFFnH2ZiPmZVhZoJ8/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL3N2/ZWx0ZWpzL3N2ZWx0/ZS8yOTA1MmFiYTdk/MGI3ODMxNmQzYTUy/YWVmMWQ3ZGRkNTRm/ZTZjYTg0L3NpdGUv/c3RhdGljL2ltYWdl/cy9zdmVsdGUtYW5k/cm9pZC1jaHJvbWUt/NTEyLnBuZw" />
     <div/>
 <section/>
 
