@@ -96,7 +96,6 @@ Portfolio: https://www.lorenzocoacci.com
         <img align="left" width=150 src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
         <img align="left" width=150 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" />
         <img align="left" width=150 src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
-        <img align="left" width=150 src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
         <img align="left" width=150 src="https://www.vectorlogo.zone/logos/google_ads/google_ads-ar21.svg" />
         <img align="left" width=150 src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" />
         <img align="left" width=150 src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" />
