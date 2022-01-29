@@ -76,7 +76,7 @@ Portfolio: https://www.lorenzocoacci.com
 
 
 <section>
-    <div style="display: grid; grid-template-columns: auto auto auto auto;">
+    <div style="display: grid; grid-template-columns: auto auto auto auto; background-color: white; border-radius: 50px;">
         <img align="left" width=150 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
         <img align="left" width=60 src="https://raw.githubusercontent.com/amido/azure-vector-icons/44d6fb82666171e8a77bda35ab80303ecc880e1b/icons/SQL%20Database%20(Generic).svg" />
         <img align="left" width=150 src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
