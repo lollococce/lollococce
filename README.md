@@ -119,6 +119,8 @@ Portfolio: https://www.lorenzocoacci.com
         <img align="left" width=150 src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
         <img align="left" width=60 src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/airflow.svg" />
         <img align="left" width=60 src="https://raw.githubusercontent.com/simple-icons/simple-icons/680903e70103b37f4f35977de0ef108ea01d32ab/icons/celery.svg" />
+        <img align="left" width=60 src="https://img.search.brave.com/gKH9IRd4ppa9iZ2qBoTI2DKTheCy7jhVb4mNIu96rbI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTkvMDYvTm90aW9u/X0FwcF9Mb2dvLnBu/Zw" />
+        <img align="left" width=60 src="https://img.search.brave.com/mwJxe76o2z4rGbGcdurn70yxXF75pVOhRUZNQy-rjew/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9tbG11/dW91czZkd2UuaS5v/cHRpbW9sZS5jb20v/RGZ3V2NkUS1BenVv/TUM1WC93OjMwMC9o/OjMwMC9xOmF1dG8v/aHR0cHM6Ly90ZWNo/bmF0aW9uLmlvL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzAy/L2J1ZGliYXNlLWNv/bG91ci5wbmc" />
     <div/>
 <section/>
 
