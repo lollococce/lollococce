@@ -3,11 +3,6 @@
 # 👨‍💻 **Lorenzo Coacci (@lollococce)**
 
 I believe in freedom 🚀, science 🔬, data 📊, and beauty 🖼
-    
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzocoacci/)
-
-![Metrics](github-metrics.svg)
-
 
 [![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -17,7 +12,7 @@ I believe in freedom 🚀, science 🔬, data 📊, and beauty 🖼
 <br/>
 
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/lorenzo.coacci.35/)
-[![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/lorenzocoacci/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzocoacci/)
 <!-- [![](https://img.shields.io/badge/-BLOG-informational?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF)]()
 [![](https://img.shields.io/badge/-Dev-informational?style=for-the-badge&logo=devto&logoColor=white&color=000000)]() -->
 
