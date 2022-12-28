@@ -16,7 +16,8 @@ I believe in freedom 🚀, science 🔬, data 📊, and beauty 🖼
 <!-- [![](https://img.shields.io/badge/-BLOG-informational?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF)]()
 [![](https://img.shields.io/badge/-Dev-informational?style=for-the-badge&logo=devto&logoColor=white&color=000000)]() -->
 
-Portfolio: https://lorenzocoacci.com
+Portfolio: lorenzocoacci.com
+
 <br />
 <br />
 <a href="https://www.datacamp.com/profile/lorenzocoacci" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" height="30" width="30" /></a> &nbsp;&nbsp;
