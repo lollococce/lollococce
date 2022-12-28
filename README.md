@@ -16,7 +16,7 @@ I believe in freedom 🚀, science 🔬, data 📊, and beauty 🖼
 <!-- [![](https://img.shields.io/badge/-BLOG-informational?style=for-the-badge&logo=hashnode&logoColor=white&color=2962FF)]()
 [![](https://img.shields.io/badge/-Dev-informational?style=for-the-badge&logo=devto&logoColor=white&color=000000)]() -->
 
-Portfolio: https://lorenzocoacci.com/app/lorenzocoacci
+Portfolio: https://lorenzocoacci.com
 <br />
 <br />
 <a href="https://www.datacamp.com/profile/lorenzocoacci" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg" height="30" width="30" /></a> &nbsp;&nbsp;
@@ -36,7 +36,13 @@ Portfolio: https://lorenzocoacci.com/app/lorenzocoacci
 
 | Name | Category | Description | Links |
 | --- | :---: | --- | --- |
-| <a href="https://lorenzocoacci.com/app/lorenzocoacci"><b>Portfolio</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() |  My personal website | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lorenzocoacci.com/app/lorenzocoacci)  </td></tr></table>
+| <a href="https://
+    
+    
+    
+    
+    
+    /app/lorenzocoacci"><b>Portfolio</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() |  My personal website | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lorenzocoacci.com/app/lorenzocoacci)  </td></tr></table>
 
 
 <br/>
