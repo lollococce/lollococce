@@ -37,13 +37,7 @@ Portfolio: lorenzocoacci.com
 
 | Name | Category | Description | Links |
 | --- | :---: | --- | --- |
-| <a href="https://
-    
-    
-    
-    
-    
-    /app/lorenzocoacci"><b>Portfolio</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() |  My personal website | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lorenzocoacci.com/app/lorenzocoacci)  </td></tr></table>
+| <a href="lorenzocoacci.com"><b>Portfolio</b></a> | [![](https://img.shields.io/badge/💻-%20Portfolio-informational?style=flat&logoColor=white&color=3498db)]() |  My personal website | <table><tr><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://lorenzocoacci.com/app/lorenzocoacci)  </td></tr></table>
 
 
 <br/>
