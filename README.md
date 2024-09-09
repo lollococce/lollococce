@@ -44,20 +44,6 @@ Portfolio: lorenzocoacci.com
 <br/>
 <hr>
 
-
-# 📊 Stats
-
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=lollococce&theme=blue-green)
-
-[![lollococce's github stats](https://github-readme-stats.vercel.app/api?username=lollococce&theme=blue-green)](https://github.com/lollococce/github-readme-stats)
-
-
-
-<br/>
-<br/>
-<hr>
-
 # 🎁 Donate
 
 
