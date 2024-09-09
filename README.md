@@ -8,10 +8,6 @@ I believe in freedom 🚀, data 📊, and beauty 🖼
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-## **Connect with me :**
-<br/>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzocoacci/)
-
 <hr>
 
 # 🎁 Donate
